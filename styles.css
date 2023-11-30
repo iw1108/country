@@ -5,7 +5,7 @@
     font-family:sans-serif;
     color: rgb(65, 65, 65);
     text-align: center;
-    background-image: linear-gradient(180deg,darkgray,grey);
+    background-image: linear-gradient(180deg,blue,white);
     width: 30.12vw;
     margin: auto;
     }
@@ -14,7 +14,7 @@
     text-align: center;
     font-family:sans-serif;
     color: rgb(0, 0, 0);
-    background-image: linear-gradient(180deg,gray,darkgrey);
+    background-image: linear-gradient(180deg,white,blue);
     width: 30.125vw;
     margin: auto;
     font-weight: 300;
@@ -43,7 +43,7 @@
 
     .nav>li>a{
 
-    background-image: linear-gradient(180deg,darkgray,grey);
+    background-image: linear-gradient(180deg,white,blue);
 
     color: rgb(0, 0, 0);
     }   
@@ -83,7 +83,7 @@
     
 
     .center0{
-        background-image:linear-gradient(180deg,gray,darkgrey);
+        background-image:linear-gradient(180deg,white,blue);
         display: block;
         margin-left: auto;
         margin-right: auto;
@@ -93,7 +93,7 @@
     }
 
     .center01{
-        background-image: linear-gradient(180deg,darkgray,grey);
+        background-image: linear-gradient(180deg,blue,white);
         display: block;
         margin-left: auto;
         margin-right: auto;
